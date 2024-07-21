@@ -4,12 +4,13 @@ import { Link } from "react-router-dom";
 // import App from './App';
 
 function SecNav() {
+  // sjhj
   return (
     <Nav variant="tabs">
       <Nav.Item>
         <Link to="/bhagavad-gita">Bhagvad Gita API</Link>
       </Nav.Item>
-      
+
       <Nav.Item>
         <Link to="/news">Inshorts News</Link>
       </Nav.Item>
